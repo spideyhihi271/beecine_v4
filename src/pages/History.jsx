@@ -49,7 +49,7 @@ function History() {
                         </div>
                     </div>
                 </div>
-                <div className="py-2 w-full lg:flex-1 max-h-[75vh] overflow-y-auto">
+                <div className="py-2 w-full lg:flex-1 h-fit lg:max-h-[75vh] overflow-y-auto">
                     <div>
                         <p className="mb-4 dark:text-white font-bold ">
                             Hôm qua
